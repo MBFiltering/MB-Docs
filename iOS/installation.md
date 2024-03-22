@@ -4,7 +4,7 @@
 
 - iOS 15.0 and above, excluding version 15.1.
 - The user's iCloud credentials should be accessible.
-- No other MDM/VPN/DNS/Proxy profile in the device.
+- No other MDM/VPN/DNS/Proxy profile on the device.
 - On iPhones 8 and older, or any iOS device with a _Home Button_, it is required that it completely works.
 - Charging port must work.
 - Storage must not be completely full.
