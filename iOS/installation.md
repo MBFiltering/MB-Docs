@@ -14,12 +14,12 @@
 ## Warnings
 
 - Music that is stored in the device that was transferred from a computer will be deleted from the device, so make sure to have it backed up.
-- Apple wallet cards will be removed when removing the passcode, and even if the iOS version does not require this, the process _can_ still remove these.
+- Apple wallet cards will be lost when removing the passcode, even if the iOS version does not require this, the process **_can_** still remove these.
 - Shared Albums usually need to be added back into the device. To get them back, go to _Settings_ => _Photos_ and toggle off and back on Shared albums. They should appear on the phone, once again.
-- Home Screen apps are normally rearranged after insatllation, they can be moved to their original state afterwards.
-- If the device has a Home Button, make sure that it works properly, as it is needed for those devices to be able to configure the filter.
+- Home Screen apps are usually rearranged after insatllation, they can be moved to their original arrangement afterwards.
+- If the device has a Home Button, make sure that it works properly, as it is needed for those devices to be able to finish installing the filter.
 > [!Important]
-> The virtual accessibility button does not fulfill this requirement. If the phone has a physical home button, then that physical phone button must work.
+> The virtual button from accessibility does not fulfill this requirement. If the phone has a physical home button, then that physical phone button must work.
 
 ## Step-by-step installation
 
