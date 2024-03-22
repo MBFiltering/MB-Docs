@@ -18,7 +18,7 @@
 - Shared Albums usually need to be added back into the device. To get them back, go to _Settings_ => _Photos_ and toggle off and back on Shared albums. They should appear on the phone, once again.
 - Home Screen apps are usually rearranged after insatllation, they can be moved to their original arrangement afterwards.
 - If the device has a Home Button, make sure that it works properly, as it is needed for those devices to be able to finish installing the filter.
-> [!Important]
+> [!Warning]
 > The virtual button from accessibility does not fulfill this requirement. If the phone has a physical home button, then that physical phone button must work.
 
 ## Step-by-step installation
