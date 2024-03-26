@@ -25,5 +25,10 @@
     should be deemed incompatible with MB Smart (just this one, other devices of the same model
     might have an unaffected ROM).
     This error is mostly found on Qin devices.
+- This installer error:
+    ![ProvisioningPreCondition99 error](./img/ProvisionError99.png)
+    Indicates that there are multiple users present on the device. This can be fixed by
+    removing the extra users, in whatever form they exist on the particular device
+    and rerunning the installer.
 - Otherwise, _c_ ...
 - These are placeholders for real troubleshooting steps, please excuse me while compiling them into a comprehensive list.
