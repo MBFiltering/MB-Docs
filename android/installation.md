@@ -84,9 +84,9 @@
 - Set up permissions as you would do any other installation. The filter should now be completely 
 installed and configured the same as the original account was.
 
-  > [!Important]
-  > A new ID will be generated for the new device, so if there is need to work on the portal 
-  for the account make sure to use the appropiate one.
+> [!Important]
+> A new ID will be generated for the new device, so if there is need to work on the portal 
+for the account make sure to use the appropiate one.
 
 ## Compatibility notes & Known issues:
 
