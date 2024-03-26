@@ -128,7 +128,7 @@ is set up in the device.
 - A device can be deprovisioned manually by removing all accounts from settings or,
 alternatively, by factory-resetting it.
 
-## [Users](https://source.android.com/docs/devices/admin/multi-user#categories_of_users):
+## Users:
 
 - System user: the first user added to a device, which cannot be removed except for a factory reset
 and is always running even when other users are in the foreground. 
@@ -143,6 +143,7 @@ They can run in the background and continue to have network connectivity.
 Only one guest user is permitted at a time.
 - Admin user: has permissions to create and remove other users, as well as control multi-user
 settings. By default, only the system user is an admin.
+- [Information source](https://source.android.com/docs/devices/admin/multi-user#categories_of_users)
 
 ---
 
