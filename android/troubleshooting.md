@@ -31,8 +31,8 @@
     removing the extra users, in whatever form they exist on the particular device
     and rerunning the installer.
 - This installer error:
-    ![App did not install correctly](./img/appincorrect.png)
-    
+
+    ![App did not install correctly](./img/appincorrect.png)    
     Could mean a number of things, but mainly that the installer considers the installation of the APK to have been unsuccessful. This might be incorrect, so please verify if the app is present in the device or not. If it is not present, please check if a _Secure Folder_ is present (or something akin to that) and remove it. If the app did install correctly, the installer should have an option to continue with the installation.
 - Otherwise, _c_ ...
 - These are placeholders for real troubleshooting steps, please excuse me while compiling them into a comprehensive list.
