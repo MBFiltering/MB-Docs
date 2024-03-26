@@ -77,8 +77,8 @@
 - Instead of creating a new account on the device, select Recover and insert the RecoveryID
   generated, including the colon and email, the format should be <#ID:email\>
 
-  > [!Note]
-  > Most mobile keyboards insert spaces after punctuation, so be mindful of this and make sure 
+> [!Note]
+> Most mobile keyboards insert spaces after punctuation, so be mindful of this and make sure 
   there are no spaces around or in between the RecoveryID parts
 
 - Set up permissions as you would do any other installation. The filter should now be completely 
