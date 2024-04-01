@@ -1,5 +1,5 @@
 # Android Installation Guide
-hola ocmo estas
+
 ## Requirements
 
 - Android version 5.0 and above
