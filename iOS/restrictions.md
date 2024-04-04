@@ -3,7 +3,7 @@
 ## Allow App Clips:
 
     > Users can’t add App Clips. Any existing App Clips are removed when this restriction is
-     applied.
+    >  applied.
 
 ## Allow Find My Device:
 
@@ -44,7 +44,7 @@
 ## iMessage:
 
     > For Wi-Fi–only devices, the Messages app is hidden. For devices with Wi-Fi and mobile,
-    the Messages app is still available but only the SMS/MMS service can be used.
+    > the Messages app is still available but only the SMS/MMS service can be used.
 
 ## In-app purchase:
 
@@ -65,5 +65,5 @@
 ## Playback of explicit music, video and podcast content:
 
     > Explicit music or video content purchased from the iTunes Store or downloaded from the
-    Podcasts app is hidden. Explicit content is flagged by content providers, such as record
-    labels, when sold through the iTunes Store.
+    > Podcasts app is hidden. Explicit content is flagged by content providers, such as record
+    > labels, when sold through the iTunes Store.
