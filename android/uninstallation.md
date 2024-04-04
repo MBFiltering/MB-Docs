@@ -14,9 +14,7 @@ removal, then press the button labeled "Remove".
     ![Removal section](./img/RemovalBox.png)
 
 - Afterwards, press the _Sync_ button on the top portion of the portal, and wait for the portal to
-reload. If there was no reload, and the portal showed a message indicating that the device has not
-synced, proceed to sync manually on the device by going into the MB Smart app and tapping the button
-labeled "Sync" with a cloud (it should be located on the bottom right).
+reload.
 > [!Note]
 > If the filter has been configured to not send notifications, or the device has been set up to
 > not allow them, the notifications will not apear.

@@ -24,7 +24,9 @@
 > like Poco and Redmi.
 
 - It is required to disable _MIUI Optimization_ in developer options and enable _Install via USB_
-  in the USB debugging section
+  in the USB debugging section (this generally requires to create a MI account).
+- In some cases, an option labeled _Verify App Bytecode_ needs to be enabled before installation,
+which prompts the user to accept the installation of MB Smart.
 
 ### Other Chinese Brands
 
