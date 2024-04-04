@@ -17,9 +17,9 @@ removal, then press the button labeled "Remove".
 reload. If there was no reload, and the portal showed a message indicating that the device has not
 synced, proceed to sync manually on the device by going into the MB Smart app and tapping the button
 labeled "Sync" with a cloud (it should be located on the bottom right).
-    > [!Info]
-    > If the filter has been configured to not send notifications, or the device has been set up to
-    > not allow them, the notifications will not apear.
+> [!Info]
+> If the filter has been configured to not send notifications, or the device has been set up to
+> not allow them, the notifications will not apear.
 - The device should now receive a notification indicating that removal has started, but take notice
 that this only removes the Device Owner from the device and not the app itself, its removal will be
 the final step.
