@@ -2,16 +2,16 @@
 
 ## Allow App Clips:
 
-    > Users can’t add App Clips. Any existing App Clips are removed when this restriction is
-    >  applied.
+> Users can’t add App Clips. Any existing App Clips are removed when this restriction is
+applied.
 
 ## Allow Find My Device:
 
-    > Users can’t use the Find My app.
+> Users can’t use the Find My app.
 
 ## Modify restrictions or Screen Time settings:
 
-    > Users can’t set their own Screen Time settings on their device for iOS 12 or later.
+> Users can’t set their own Screen Time settings on their device for iOS 12 or later.
 
 ## Apple Music:
 
