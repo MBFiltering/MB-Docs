@@ -29,6 +29,7 @@ We want to provide a comprehensive understanding for what goes on under the hood
     - [Pro Installation Troubleshooting](./iOS/pro_installation_troubleshooting.md)
     - [Pro Uninstallation](./iOS/pro_uninstallation.md)
     - [Pro Uninstallation Troubleshooting](./iOS/pro_uninstallation_troubleshooting.md)
+    - [Restrictions](./iOS/restrictions.md)
 - Chromebook:
     - [Installation](./chromebook/installation.md)
     - [Installation Troubleshooting](./chromebook/installation_troubleshooting.md)
