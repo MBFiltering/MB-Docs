@@ -31,9 +31,6 @@ devices to be able to finish installing the filter.
 
 ## Step-by-step installation
 
-> [!Note]
-> This does not include payment, and the filter should be turned on after installation and setup is
-> completed.
 - On the device, disable Find My, this requires the user's iCloud account credentials
 - On [the portal](https://portal.mbsmartservices.net) select _Open Account_ or follow
 [this link](https://portal.mbsmartservices.net/mbsmart/Admin.html?data=main&content=ioscreate) to
@@ -48,3 +45,7 @@ needed and can take a really long time).
 - Click _Proceed_.
 - On the device, after it reboots, swipe up (or in older models, press the home button) to
 continue, and accept the profile download.
+
+> [!Note]
+> This does not include payment, and the filter should be turned on after installation and setup is
+> completed.
