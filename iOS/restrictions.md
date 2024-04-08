@@ -2,8 +2,8 @@
 
 ### Allow App Clips:
 
-    - Users can’t add App Clips. Any existing App Clips are removed when this restriction is
-      applied.
+- Users can’t add App Clips. Any existing App Clips are removed when this restriction is
+  applied.
 
 ### Allow Find My Device:
 
