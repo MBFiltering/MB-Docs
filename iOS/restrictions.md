@@ -1,6 +1,6 @@
 # iOS Restrictions
 
-### Allow App Clips:
+- Allow App Clips:
 
     Users can’t add App Clips. Any existing App Clips are removed when this restriction is
     applied.
